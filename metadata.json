@@ -1,0 +1,5 @@
+{
+  "name": "AD Recon Mind Map",
+  "description": "An interactive mind map visualizing non-intrusive techniques for Active Directory reconnaissance, based on a provided cybersecurity flowchart.",
+  "requestFramePermissions": []
+}
